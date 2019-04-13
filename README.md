@@ -38,9 +38,9 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment
+## Design/Circuit Diagram
 
-Add additional notes about how to deploy this on a live system
+TBA
 
 ## Resources
 Under Construction
