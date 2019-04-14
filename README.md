@@ -8,9 +8,11 @@ Personal Project using Teensy 3.6 and a few sensors just to try out.
 Instruction: TBA
 The codes are written to be used in Arduino IDE.
 
-### Prerequisites
+### Conditions
 
-What things you need to install the software and how to install them
+test_PMS5003_adafruit.ino, which is modified from the code I found on adafruit website - check the reference - seems fine, alghouth this code often gives me "checksum failure." But still working on writing my own code. 
+
+This python code (https://github.com/dobra-dobra/Python_PMS5003/blob/master/pms5003.py) is conceptually pretty helpful in terms of what's to be done.
 
 ```
 Give examples
