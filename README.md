@@ -46,5 +46,5 @@ TBA
 Under Construction
 
 * [Temperature Sensor: BME680](https://learn.adafruit.com/adafruit-bme680-humidity-temperature-barometic-pressure-voc-gas/overview) - Used to check the pin connections and arduino library
-* [Particle Sensor: PMS5003](https://www.adafruit.com/product/3686) - Multiple websites/blogs are referenced including [this github page](https://github.com/jbanaszczyk/pms5003). 
+* [Particle Sensor: PMS5003](https://www.adafruit.com/product/3686) - Multiple websites/blogs are referenced including [adafruit website](https://learn.adafruit.com/pm25-air-quality-sensor/arduino-code) and [this github page](https://github.com/jbanaszczyk/pms5003). 
 * [GPS Module: NEO-M8N](https://www.u-blox.com/en/product/neo-m8-series) - TBA
